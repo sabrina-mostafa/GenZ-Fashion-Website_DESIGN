@@ -5,7 +5,7 @@
 ### "A Fully Responsive Website i.e. GenZ_Fashion Creation using TailwindCSS Framework"
 <br/>
 
-    live link : https://sabrina-mostafa.github.io/FrontEnd_Course--Assignment-4_-TailwindCSS-/
+    live link: https://sabrina-mostafa.github.io/PROJECT_GenZ-Fashion/
 
 ### My site is live at :
-https://sabrina-mostafa.github.io/FrontEnd_Course--Assignment-4_-TailwindCSS-/
+https://sabrina-mostafa.github.io/PROJECT_GenZ-Fashion/
